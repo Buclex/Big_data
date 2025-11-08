@@ -3,7 +3,7 @@ Creación de una Base de Datos Analítica
 
 Integrantes del equipo
 
-Raul Alberto Niño Cuervo
+Raul Alberto Niño Mora
 Jhoan Sebastian Zamudio
 
 Profesor: Andrés Callejas
