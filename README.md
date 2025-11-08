@@ -12,7 +12,6 @@ Profesor: Andrés Callejas
 
 Aplicar los conceptos de la Unidad 1 para formular una problemática real que requiera una base de datos analítica, diseñar el modelo entidad–relación, crear la base de datos, insertar información y documentar el proceso dentro de un Jupyter Notebook alojado en un repositorio de GitHub*
 
-
 Instrucciones:
 
 1. Buscar una problemática real que requiera una base de datos analítica.  
@@ -85,8 +84,8 @@ El notebook incluye:
 *** Tecnologías utilizadas**
 
 -**Python** (Jupyter Notebook)  
--**SQLite / PostgreSQL / MySQL / Databricks Community Edition**  
--**Pandas**, **SQLAlchemy**, **Matplotlib**, **Seaborn**  
+-**MySQL / Databricks Community Edition**  
+-**Pandas**, **SQLAlchemy**, **Matplotlib**, **Seaborn**, **PySpark**  
 -**SQL** para creación y consulta de datos  
 
 ---
